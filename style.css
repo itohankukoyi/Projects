@@ -1,0 +1,242 @@
+body{
+                    margin: 0;
+                    padding: 0;
+                    font-family: helvetica, arial, sans-serif;
+                    
+                }
+                
+                #nav{
+                    background-color: #a91717;
+                    width: 1600px;
+                    height:35px;
+                    
+                    
+                                        
+                }
+                #topbar{
+                    
+                    height: 5px;
+                    width: 1600px;
+                    margin: 0 auto;
+                    border-top: 20px solid #000000;
+                    
+                    
+
+                            
+                }
+                #title{
+                    height: 70px;
+                    width: 1600px;
+                    background-color: #bb1919;
+                    margin: 0 auto;
+
+                }
+                #topbar a{
+                    text-decoration: none;
+                    font-size: 12px;
+                    color: #222222;
+                    
+                    font-weight:300px;
+                    line-height: 35px;
+                    
+                }
+                #logo{
+                    width: 80px;
+                    float: left;
+                    padding-right: 20px;
+                    padding-left: 50px;
+                    
+                    padding-top: 10px;
+                                
+                    }
+                    #nav-arrow{
+                        float: left;
+                    padding-right: 20px;
+                    padding-left: 50px;
+                    
+                    }
+                    #topbar-arrow{
+                        float: left;
+                    padding-right: 20px;
+                    padding-left: 50px;
+                    padding-top: 8px;
+                    
+                    }
+                #signin{
+                    
+                    
+                    padding-top: 5px;
+                    float: left;
+                }
+                
+                #signin-text {
+                        
+                        font-weight: bold;
+                        font-size:90%;
+                        float:left;
+                        padding-top: 15px;
+                        color: #222222;
+                        padding-right: 60px;
+                        
+                    }
+                
+                #nav a{
+                    color: white;
+                    text-decoration: none;
+                    font-weight: normal;
+                    font-size: 14px;
+                    
+                }
+                ul{
+                    list-style-type: none;
+                }
+                #content{
+                    display: flex;
+                    flex-direction: column;
+                    
+                   
+                    
+                    
+                                            
+                }
+                #content-image{
+                    width: 400px
+                }
+                p{
+                   
+                    color: #666666;
+                    font-family: helvetica;
+                    font-size: 14px;
+                }
+                #heading{
+                    
+                    width: 100%;
+                    height: 55px;
+                }
+                #tech{
+                    float: left;
+                    
+                }
+                li{
+                    display: inline;
+                    padding-right: 20px;
+                    padding-left: 10px;
+                }
+                h2{
+                    font-size: 20px;
+                    border-bottom: 2px solid #bb1919;
+                    width: 45px;
+                    margin-left: 50px;
+                    
+                    
+                }
+                #home{
+                    padding-left: 50px;
+                }
+                
+                a{
+                    color: black;
+                    font-weight: bold;
+                    
+                }
+                .topbar-section{
+                    float: left;
+                    border-left: 1px grey solid;
+                    padding: 7px 12px 3px 12px;                    
+                    height: 40px;
+                    
+                    }
+                    .nav-section{
+                    float:left;
+                    border-left: 1px #bb454f solid;
+                    padding: 3px 12px 5px 12px;
+                    margin-top: 10px;
+                    height: 8px;
+                    
+                    }
+                    .title-section{
+                    color: white;
+                    position: relative;  
+                           
+                    font-size: 45px;  
+                        font-family: helvetica;
+                        font-weight: normal;
+                    padding-left: 50px;
+                    padding-top: 5px;             
+                    
+                    }
+                    #article{
+                        
+                        width: 450px;
+                        
+                    }
+                    #article-title a{
+                        text-decoration: none;
+                        font-size: 25px;
+                        margin-right: 400px;
+                    }
+                    #article-title{
+                        width: 400px;
+                    }
+                    #article-title-p{
+                        width: 400px;
+                    }
+                    #article-title a:hover{
+                        color:#1167a8;
+                    }
+                    #sidebar-title a{
+                        text-decoration: none;
+                        font-size: 15px;
+                        color: #222222;
+                        
+                    }
+                    #sidebar-title a:hover{
+                        color:#1167a8;
+                    }
+                    #sidebar-title{
+                        width: 250px;
+                        margin-top: 0;
+                        margin-bottom: 0;
+                        line-height: 20px;
+                    }
+                    #sidebar-paragraph{
+                        width: 250px;
+                        margin-top: 5px;
+                        
+                    }
+                    #side-bar{
+                        display: flex;
+                        flex-direction: row;
+                        width: 1600px;                        
+                    }
+                    #side-bar-1{
+                        padding-right: 0px;                       
+                    }
+                    #all-content{
+                        display: flex;
+                        flex-direction: row;
+                        width: 100%;
+                        margin-left: 50px;
+
+                        
+                        
+                    }
+                    
+                    #search-sign{
+                    float: left;
+                    padding-left: 0;
+                    margin-left: 0;
+                               
+                    }
+                   
+                #search-box{
+                    background-color: #e4e4e4;
+                    
+                    margin-left: 5px;
+                    margin-right: 0;
+                    border: none;
+                    font-weight: bold;
+                    padding: 2px;
+                    float: left;
+                    
+                }
